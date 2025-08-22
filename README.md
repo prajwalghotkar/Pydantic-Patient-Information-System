@@ -9,16 +9,16 @@
 - Automatic validation of nested models
 - Custom validation examples included
 
-###### Serialization Capabilities:
+##### Serialization Capabilities:
 - Easy conversion to JSON with proper formatting
 - Control over what data to include/exclude
 
-###### Real-world Practicality:
+##### Real-world Practicality:
 - Includes timestamp for when vitals were recorded
 - Well-formatted output for display purposes
 - Examples of both valid and invalid data
 
-###### Type Safety:
+##### Type Safety:
 - Full type hints throughout the code
 - IDE support for autocompletion and error detection
 
